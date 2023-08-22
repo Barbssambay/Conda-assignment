@@ -6,6 +6,9 @@ Step 1. **Setting up conda environment**;
 
 Step 2. **installing packages within qc environment**- *conda install fastqc multiqc*
 
+
+**PACKAGES INSTALLED**
+--
 blas pkgs/main/linux-64::blas-1.0-mkl
 
 brotli conda-forge/linux-64::brotli-1.0.9-h166bdaf_7
